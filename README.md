@@ -29,7 +29,7 @@ This dataset contains 35 columns and can be found [here](https://www.kaggle.com/
 
   Within the Sales department, the Sales Representative position has an attrition rate of nearly 40%, which is double that of the Sales Executive position.
 
-  In the R&D department, the Laboratory Technician role has the highest attrition rate at 23%, followed by the Research Scientist role.
+  In the R&D department, the Laboratory Technician role has the highest attrition rate about 24%, followed by the Research Scientist role.
   
   ![image](https://github.com/user-attachments/assets/a9844533-b2ad-473a-b9c2-48e7b098645c)
 ### #2 Compensation Issues
