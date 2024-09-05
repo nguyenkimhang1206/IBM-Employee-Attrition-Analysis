@@ -33,67 +33,67 @@ This dataset contains 35 columns and can be found [here](https://www.kaggle.com/
   In the R&D department, the Laboratory Technician role has the highest attrition rate about 24%, followed by the Research Scientist role.
   
   ![image](https://github.com/user-attachments/assets/a9844533-b2ad-473a-b9c2-48e7b098645c)
-### #2 Compensation Issues
+### #2 Compensation Issue
 
-- **MonthlyIncome**: Employees who stay with the company generally have higher incomes compared to those who leave. Specifically, 50% of employees who have left earn $3,200 or less, while only 25% of employees who remain earn $3,200 or less. This suggests that higher-income employees are more likely to stay with the company.
+- **Monthly Income**: Employees who stay with the company generally have higher incomes compared to those who leave. Specifically, 50% of employees who have left earn $3,200 or less, while only 25% of employees who remain earn $3,200 or less. This suggests that higher-income employees are more likely to stay with the company.
   
   ![image](https://github.com/user-attachments/assets/8f4943ac-a42a-46ec-b9e7-a6dd4760b3ad)
   
-### #3 Management Issues
+### #3 Management Issue
 
-- **YearsWithCurrManager**: Employees who remain with the company generally have more tenure with their current manager. Specifically, 50% of employees who have left have been with their current manager for 2 years or less, while 50% of employees who stay have been with their manager for 3 years or less. The longer tenure of employees who remain suggests that employees who have a longer relationship with their manager are more likely to stay with the company. This could imply that stronger relationships with managers contribute to higher employee retention.
+- **Years With Current Manager**: Employees who remain with the company generally have more tenure with their current manager. Specifically, 50% of employees who have left have been with their current manager for 2 years or less, while 50% of employees who stay have been with their manager for 3 years or less. The longer tenure of employees who remain suggests that employees who have a longer relationship with their manager are more likely to stay with the company. This could imply that stronger relationships with managers contribute to higher employee retention.
   
   ![image](https://github.com/user-attachments/assets/4685debf-ddca-42d1-bb26-2593a2207cbb)
 
-### #4 Work Environment Issues
+### #4 Work Environment Issue
 
-- **EnvironmentSatisfaction**: This suggests that employees who are dissatisfied with their work environment are more likely to leave the company. As environment satisfaction improves, attrition rates decrease, with employees who score 4 experiencing the lowest attrition. This pattern underscores the importance of a positive work environment in retaining employees. Addressing environmental factors, particularly for those with low satisfaction, could help in reducing attrition rates and improving overall employee retention.
+- **Environment Satisfaction**: This suggests that employees who are dissatisfied with their work environment are more likely to leave the company. As environment satisfaction improves, attrition rates decrease, with employees who score 4 experiencing the lowest attrition. This pattern underscores the importance of a positive work environment in retaining employees. Addressing environmental factors, particularly for those with low satisfaction, could help in reducing attrition rates and improving overall employee retention.
   
 ![image](https://github.com/user-attachments/assets/737888ea-e147-419f-ba40-8f17a831b086)
 
-- **JobSatisfaction**: Employees with the lowest job satisfaction (score of 1) exhibit the highest attrition rates. This indicates that employees who are highly dissatisfied with their jobs are more likely to leave the company. Conversely, as job satisfaction increases, attrition rates decrease, with employees who score 4 on job satisfaction showing the lowest attrition rates. This trend underscores the critical role of job satisfaction in employee retention. Enhancing job satisfaction, particularly for those with the lowest ratings, could be a key strategy in reducing attrition and improving employee retention.
+- **Job Satisfaction**: Employees with the lowest job satisfaction (score of 1) exhibit the highest attrition rates. This indicates that employees who are highly dissatisfied with their jobs are more likely to leave the company. Conversely, as job satisfaction increases, attrition rates decrease, with employees who score 4 on job satisfaction showing the lowest attrition rates. This trend underscores the critical role of job satisfaction in employee retention. Enhancing job satisfaction, particularly for those with the lowest ratings, could be a key strategy in reducing attrition and improving employee retention.
   
   ![image](https://github.com/user-attachments/assets/4cdae7f2-03a9-491b-8026-02d568501a0a)
 
-- **RelationshipSatisfaction**: employees with the lowest relationship satisfaction (score of 1) have the highest attrition rates. This suggests that employees who are highly dissatisfied with their relationships at work are more likely to leave the company. As relationship satisfaction improves, attrition rates decrease, with employees scoring 4 showing the lowest attrition rates. This indicates that positive relationships at work are strongly associated with higher employee retention. Addressing issues related to workplace relationships, particularly for those with low satisfaction, could be a crucial strategy in reducing overall attrition and enhancing employee retention.
+- **Relationship Satisfaction**: employees with the lowest relationship satisfaction (score of 1) have the highest attrition rates. This suggests that employees who are highly dissatisfied with their relationships at work are more likely to leave the company. As relationship satisfaction improves, attrition rates decrease, with employees scoring 4 showing the lowest attrition rates. This indicates that positive relationships at work are strongly associated with higher employee retention. Addressing issues related to workplace relationships, particularly for those with low satisfaction, could be a crucial strategy in reducing overall attrition and enhancing employee retention.
   
   ![image](https://github.com/user-attachments/assets/c5f621df-0927-409f-b83e-4fa577efe982)
   
-- **OverTime**: The stacked bar chart comparing attrition rates by overtime status reveals that employees who work overtime exhibit the highest attrition rate, at 30.5%. This suggests that employees who are required to work overtime are more likely to leave the company compared to those who do not work overtime. The higher attrition rate among overtime workers may indicate that excessive work hours could be contributing to increased employee dissatisfaction or burnout. Addressing the reasons behind the high attrition among employees who work overtime and finding ways to manage or reduce overtime could be essential strategies for improving retention and overall employee well-being.
+- **Over Time**: The stacked bar chart comparing attrition rates by overtime status reveals that employees who work overtime exhibit the highest attrition rate, at 30.5%. This suggests that employees who are required to work overtime are more likely to leave the company compared to those who do not work overtime. The higher attrition rate among overtime workers may indicate that excessive work hours could be contributing to increased employee dissatisfaction or burnout. Addressing the reasons behind the high attrition among employees who work overtime and finding ways to manage or reduce overtime could be essential strategies for improving retention and overall employee well-being.
   
 ![image](https://github.com/user-attachments/assets/b95b2b5b-3094-48af-b140-6dcc5b223415)
 
-### #5 Work Experience Issues
+### #5 Work Experience Issue
 
-- **YearsAtCompany**: This indicates that employees who stay with the company generally have more tenure compared to those who leave. Specifically, 50% of employees who have left have been with the company for 3 years or less, while 50% of employees who remain have been with the company for 6 years or less. The higher median tenure for employees who stay suggests that longer company tenure is associated with lower attrition rates, implying that employees with more years at the company are more likely to stay.
+- **Years At Company**: This indicates that employees who stay with the company generally have more tenure compared to those who leave. Specifically, 50% of employees who have left have been with the company for 3 years or less, while 50% of employees who remain have been with the company for 6 years or less. The higher median tenure for employees who stay suggests that longer company tenure is associated with lower attrition rates, implying that employees with more years at the company are more likely to stay.
   
 ![image](https://github.com/user-attachments/assets/d92a4575-4257-45a0-8066-b451c77dd1ed)
 
-- **YearsInCurrentRole**: Employees who remain with the company generally hold their current role for longer periods compared to those who leave. Specifically, 50% of employees who have left have been in their role for 2 years or less, while 50% of employees who stay have held their role for 3 years or less. The higher median for employees who remain suggests that longer tenure in the same role is associated with lower attrition rates, implying that employees who have been in their current role longer are more likely to stay with the company.
+- **Years In Current Role**: Employees who remain with the company generally hold their current role for longer periods compared to those who leave. Specifically, 50% of employees who have left have been in their role for 2 years or less, while 50% of employees who stay have held their role for 3 years or less. The higher median for employees who remain suggests that longer tenure in the same role is associated with lower attrition rates, implying that employees who have been in their current role longer are more likely to stay with the company.
   
 ![image](https://github.com/user-attachments/assets/55a0d117-54b1-46e5-ad24-95568853982d)
 
-- **TotalWorkingYears**: Employees who remain with the company tend to have more total working experience compared to those who leave. Specifically, 50% of employees who have left have 7 years or less of work experience, while 50% of those who stay have 10 years or less. Additionally, the wider spread in total working years for the non-attrition group suggests that more experienced employees are more likely to stay with the company. This implies that longer overall career experience is associated with lower attrition rates.
+- **Total Working Years**: Employees who remain with the company tend to have more total working experience compared to those who leave. Specifically, 50% of employees who have left have 7 years or less of work experience, while 50% of those who stay have 10 years or less. Additionally, the wider spread in total working years for the non-attrition group suggests that more experienced employees are more likely to stay with the company. This implies that longer overall career experience is associated with lower attrition rates.
   
   ![image](https://github.com/user-attachments/assets/50281294-94e8-444a-a6a8-d239852d5097)
   
-- **NumCompaniesWorked**: Employees who leave the company tend to have worked for fewer companies overall, with 50% of them having worked for only 1 company. In contrast, 50% of employees who stay have worked for 2 companies or less, and their overall range of prior employers is narrower. The higher number of previous companies worked for among employees who stay suggests that those with more diverse work experiences may be more likely to remain with the company, possibly because they have gained broader experience in different environments.
+- **Number of Companies Worked**: Employees who leave the company tend to have worked for fewer companies overall, with 50% of them having worked for only 1 company. In contrast, 50% of employees who stay have worked for 2 companies or less, and their overall range of prior employers is narrower. The higher number of previous companies worked for among employees who stay suggests that those with more diverse work experiences may be more likely to remain with the company, possibly because they have gained broader experience in different environments.
   
   ![image](https://github.com/user-attachments/assets/4f2f288a-c731-427d-bb2c-b24f5db77c03)
   
-### #6 Other Job Related Issues
+### #6 Other Job-Related Issue
 
-- **JobInvolvement**: employees who are less engaged or involved in their work are more likely to leave the company. As job involvement increases, attrition rates decrease, with employees who score 4 on job involvement experiencing the lowest attrition. This pattern indicates that higher levels of job involvement are associated with greater employee retention. Fostering higher engagement and involvement in the workplace could be a key strategy to reduce attrition, especially for employees with low job involvement.
+- **Job Involvement**: employees who are less engaged or involved in their work are more likely to leave the company. As job involvement increases, attrition rates decrease, with employees who score 4 on job involvement experiencing the lowest attrition. This pattern indicates that higher levels of job involvement are associated with greater employee retention. Fostering higher engagement and involvement in the workplace could be a key strategy to reduce attrition, especially for employees with low job involvement.
   
 ![image](https://github.com/user-attachments/assets/f3748efb-07c8-4404-a498-ae26f2ceb8a6)
 
-- **JobLevel**: Employees who remain with the company generally occupy higher job levels compared to those who leave. Specifically, 50% of employees who have left are at job level 1, while 50% of employees who stay are at job level 2. The higher median job level for employees who stay suggests that more senior positions are associated with lower attrition rates, implying that employees in higher job levels are more likely to remain with the company.
+- **Job Level**: Employees who remain with the company generally occupy higher job levels compared to those who leave. Specifically, 50% of employees who have left are at job level 1, while 50% of employees who stay are at job level 2. The higher median job level for employees who stay suggests that more senior positions are associated with lower attrition rates, implying that employees in higher job levels are more likely to remain with the company.
   
   ![image](https://github.com/user-attachments/assets/fade8fea-fe8b-4da0-b56e-9a9c6b3abc10)
   
-### #7 Personal Issues
+### #7 Personal Issue
 
-- **WorkLifeBalance**: Employees with the lowest work-life balance score of 1 have the highest attrition rate, indicating that poor work-life balance is a significant factor contributing to employees leaving the company. This suggests that employees who perceive a better work-life balance are more likely to stay with the company, while those facing work-life imbalance are at a higher risk of leaving. Improving work-life balance, particularly for those with a score of 1, could be an effective strategy to reduce attrition.
+- **Work Life Balance**: Employees with the lowest work-life balance score of 1 have the highest attrition rate, indicating that poor work-life balance is a significant factor contributing to employees leaving the company. This suggests that employees who perceive a better work-life balance are more likely to stay with the company, while those facing work-life imbalance are at a higher risk of leaving. Improving work-life balance, particularly for those with a score of 1, could be an effective strategy to reduce attrition.
   
 ![image](https://github.com/user-attachments/assets/23f4b7eb-7ec3-4539-b02f-90eae2722f23)
 
@@ -101,7 +101,7 @@ This dataset contains 35 columns and can be found [here](https://www.kaggle.com/
   
 ![image](https://github.com/user-attachments/assets/0b4b6497-55e5-4a6c-96e8-0efddeeb2542)
 
-- **DistanceFromHome**: employees who live farther from the workplace are more likely to leave the company, as 50% of employees who left live 9 km or farther from the workplace, compared to 50% of employees who stay, who live 7 km or less. Additionally, the wider range of commuting distances for employees who have left indicates that longer commutes could be a contributing factor to higher attrition rates. Improving flexibility or addressing commute-related challenges could help reduce attrition, particularly for employees who live farther away.
+- **Distance From Home**: employees who live farther from the workplace are more likely to leave the company, as 50% of employees who left live 9 km or farther from the workplace, compared to 50% of employees who stay, who live 7 km or less. Additionally, the wider range of commuting distances for employees who have left indicates that longer commutes could be a contributing factor to higher attrition rates. Improving flexibility or addressing commute-related challenges could help reduce attrition, particularly for employees who live farther away.
   
 ![image](https://github.com/user-attachments/assets/2258a4bc-fa26-49a5-899f-fe82b05051ee)
 
