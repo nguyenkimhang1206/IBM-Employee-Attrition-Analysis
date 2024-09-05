@@ -102,11 +102,13 @@ This dataset contains 35 columns and can be found [here](https://www.kaggle.com/
 
 # 4. Conclusion
 
-The analysis reveals that employees who left the company often had **lower salaries, shorter tenures with their current manager, and lower job levels**. They also had **fewer years with the company, and less experience in their current role.**
-Additionally, younger employees and those living farther from the company were more likely to leave. 
-**Key dissatisfaction indicators** included low scores in environment satisfaction, job satisfaction, relationship satisfaction, job involvement, and work-life balance. 
-Employees who worked overtime also had higher attrition rates. 
-These insights suggest that addressing compensation, improving job and relationship satisfaction, enhancing career development opportunities, and managing overtime effectively could help reduce employee turnover.
+The analysis reveals that several key factors influence employee attrition, including c**ompensation, management, work environment, work experience, and personal issues.** 
+
+Employees with **lower income, shorter tenure with their manager, and less work experience** tend to leave, indicating dissatisfaction with pay, support, and career growth opportunities. 
+
+Additionally, **poor scores in environment, job, and relationship satisfaction, as well as high levels of overtime,** contribute to higher attrition rates, highlighting issues with the work environment. 
+
+Personal factors like **poor work-life balance, younger age, and proximity to the workplace** also play a role in employee turnover.
 
 # 5. Recommendation
 
