@@ -45,7 +45,7 @@ This dataset contains 35 columns and can be found [here](https://www.kaggle.com/
   
   ![image](https://github.com/user-attachments/assets/4685debf-ddca-42d1-bb26-2593a2207cbb)
 
-### #4 Work Environment Issue
+### #4 Work Environment Issues
 
 - **Environment Satisfaction**: Employees who are dissatisfied with their work environment are more likely to leave the company. As environment satisfaction improves, attrition rates decrease, with employees who score 4 experiencing the lowest attrition. This pattern underscores the importance of a positive work environment in retaining employees. 
   
@@ -63,9 +63,9 @@ This dataset contains 35 columns and can be found [here](https://www.kaggle.com/
   
 ![image](https://github.com/user-attachments/assets/b95b2b5b-3094-48af-b140-6dcc5b223415)
 
-### #5 Work Experience Issue
+### #5 Work Experience Factors
 
-- **Years At Company**: This indicates that employees who stay with the company generally have more tenure compared to those who leave. Specifically, 50% of employees who have left have been with the company for 3 years or less, while 50% of employees who remain have been with the company for 6 years or less. The higher median tenure for employees who stay suggests that longer company tenure is associated with lower attrition rates, implying that employees with more years at the company are more likely to stay.
+- **Years At Company**: Employees who stay with the company generally have more tenure compared to those who leave. Specifically, 50% of employees who have left have been with the company for 3 years or less, while 50% of employees who remain have been with the company for 6 years or less. The higher median tenure for employees who stay suggests that longer company tenure is associated with lower attrition rates, implying that employees with more years at the company are more likely to stay.
   
 ![image](https://github.com/user-attachments/assets/d92a4575-4257-45a0-8066-b451c77dd1ed)
 
@@ -77,10 +77,7 @@ This dataset contains 35 columns and can be found [here](https://www.kaggle.com/
   
   ![image](https://github.com/user-attachments/assets/50281294-94e8-444a-a6a8-d239852d5097)
   
-- **Number of Companies Worked**: Employees who leave the company tend to have worked for fewer companies overall, with 50% of them having worked for only 1 company. In contrast, 50% of employees who stay have worked for 2 companies or less, and their overall range of prior employers is narrower. The higher number of previous companies worked for among employees who stay suggests that those with more diverse work experiences may be more likely to remain with the company, possibly because they have gained broader experience in different environments.
-  
-  ![image](https://github.com/user-attachments/assets/4f2f288a-c731-427d-bb2c-b24f5db77c03)
-  
+    
 - **Job Involvement**: employees who are less engaged or involved in their work are more likely to leave the company. As job involvement increases, attrition rates decrease, with employees who score 4 on job involvement experiencing the lowest attrition. This pattern indicates that higher levels of job involvement are associated with greater employee retention. Fostering higher engagement and involvement in the workplace could be a key strategy to reduce attrition, especially for employees with low job involvement.
   
 ![image](https://github.com/user-attachments/assets/f3748efb-07c8-4404-a498-ae26f2ceb8a6)
