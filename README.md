@@ -102,13 +102,13 @@ This dataset contains 35 columns and can be found [here](https://www.kaggle.com/
 
 # 4. Conclusion
 
-The analysis reveals that several key factors influence employee attrition, including c**ompensation, management, work environment, work experience, and personal issues.** 
+- The analysis reveals that several key factors influence employee attrition, including c**ompensation, management, work environment, work experience, and personal issues.** 
 
-Employees with **lower income, shorter tenure with their manager, less work experience, lower job involvement, and lower job levels** tend to leave.
+- Employees with **lower income, shorter tenure with their manager, less work experience, lower job involvement, and lower job levels** tend to leave.
 
-Additionally, **poor scores in environment, job, and relationship satisfaction, as well as high levels of overtime,** contribute to higher attrition rates, highlighting issues with the work environment. 
+- Additionally, **poor scores in environment, job, and relationship satisfaction, as well as high levels of overtime,** contribute to higher attrition rates, highlighting issues with the work environment. 
 
-Personal factors like **poor work-life balance, younger age, and proximity to the workplace** also play a role in employee turnover.
+- Personal factors like **poor work-life balance, younger age, and proximity to the workplace** also play a role in employee turnover.
 
 # 5. Recommendation
 
