@@ -41,25 +41,25 @@ This dataset contains 35 columns and can be found [here](https://www.kaggle.com/
   
 ### #3 Management Issue
 
-- **Years With Current Manager**: Employees who remain with the company generally have more tenure with their current manager. Specifically, 50% of employees who have left have been with their current manager for 2 years or less, while 50% of employees who stay have been with their manager for 3 years or less. The longer tenure of employees who remain suggests that employees who have a longer relationship with their manager are more likely to stay with the company. This could imply that stronger relationships with managers contribute to higher employee retention.
+- **Years With Current Manager**: Employees who remain with the company generally have more tenure with their current manager. Specifically, 50% of employees who have left have been with their current manager for 2 years or less, while 50% of employees who stay have been with their manager for 3 years or less. This could imply that stronger relationships with managers contribute to higher employee retention.
   
   ![image](https://github.com/user-attachments/assets/4685debf-ddca-42d1-bb26-2593a2207cbb)
 
 ### #4 Work Environment Issue
 
-- **Environment Satisfaction**: This suggests that employees who are dissatisfied with their work environment are more likely to leave the company. As environment satisfaction improves, attrition rates decrease, with employees who score 4 experiencing the lowest attrition. This pattern underscores the importance of a positive work environment in retaining employees. Addressing environmental factors, particularly for those with low satisfaction, could help in reducing attrition rates and improving overall employee retention.
+- **Environment Satisfaction**: Employees who are dissatisfied with their work environment are more likely to leave the company. As environment satisfaction improves, attrition rates decrease, with employees who score 4 experiencing the lowest attrition. This pattern underscores the importance of a positive work environment in retaining employees. 
   
 ![image](https://github.com/user-attachments/assets/737888ea-e147-419f-ba40-8f17a831b086)
 
-- **Job Satisfaction**: Employees with the lowest job satisfaction (score of 1) exhibit the highest attrition rates. This indicates that employees who are highly dissatisfied with their jobs are more likely to leave the company. Conversely, as job satisfaction increases, attrition rates decrease, with employees who score 4 on job satisfaction showing the lowest attrition rates. This trend underscores the critical role of job satisfaction in employee retention. Enhancing job satisfaction, particularly for those with the lowest ratings, could be a key strategy in reducing attrition and improving employee retention.
+- **Job Satisfaction**: Employees with the lowest job satisfaction (score of 1) exhibit the highest attrition rates. This indicates that employees who are highly dissatisfied with their jobs are more likely to leave the company. Conversely, as job satisfaction increases, attrition rates decrease, with employees who score 4 on job satisfaction showing the lowest attrition rates. This trend underscores the critical role of job satisfaction in employee retention.
   
   ![image](https://github.com/user-attachments/assets/4cdae7f2-03a9-491b-8026-02d568501a0a)
 
-- **Relationship Satisfaction**: employees with the lowest relationship satisfaction (score of 1) have the highest attrition rates. This suggests that employees who are highly dissatisfied with their relationships at work are more likely to leave the company. As relationship satisfaction improves, attrition rates decrease, with employees scoring 4 showing the lowest attrition rates. This indicates that positive relationships at work are strongly associated with higher employee retention. Addressing issues related to workplace relationships, particularly for those with low satisfaction, could be a crucial strategy in reducing overall attrition and enhancing employee retention.
+- **Relationship Satisfaction**: Employees with the lowest relationship satisfaction (score of 1) have the highest attrition rates. This suggests that employees who are highly dissatisfied with their relationships at work are more likely to leave the company. As relationship satisfaction improves, attrition rates decrease. This indicates that positive relationships at work are strongly associated with higher employee retention. 
   
   ![image](https://github.com/user-attachments/assets/c5f621df-0927-409f-b83e-4fa577efe982)
   
-- **Over Time**: The stacked bar chart comparing attrition rates by overtime status reveals that employees who work overtime exhibit the highest attrition rate, at 30.5%. This suggests that employees who are required to work overtime are more likely to leave the company compared to those who do not work overtime. The higher attrition rate among overtime workers may indicate that excessive work hours could be contributing to increased employee dissatisfaction or burnout. Addressing the reasons behind the high attrition among employees who work overtime and finding ways to manage or reduce overtime could be essential strategies for improving retention and overall employee well-being.
+- **Over Time**: Employees who work overtime exhibit the high attrition rate, at 30.5%, triple that of those who don't. This suggests that employees required to work overtime are more likely to leave the company compared to those who do not. The higher attrition rate among overtime workers may indicate that excessive work hours contribute to increased employee dissatisfaction or burnout.
   
 ![image](https://github.com/user-attachments/assets/b95b2b5b-3094-48af-b140-6dcc5b223415)
 
