@@ -49,15 +49,8 @@ This dataset contains 35 columns and can be found [here](https://www.kaggle.com/
 - OverTime
   The stacked bar chart comparing attrition rates by overtime status reveals that employees who work overtime exhibit the highest attrition rate, at 30.5%. This suggests that employees who are required to work overtime are more likely to leave the company compared to those who do not work overtime. The higher attrition rate among overtime workers may indicate that excessive work hours could be contributing to increased employee dissatisfaction or burnout. Addressing the reasons behind the high attrition among employees who work overtime and finding ways to manage or reduce overtime could be essential strategies for improving retention and overall employee well-being.
 ![image](https://github.com/user-attachments/assets/b95b2b5b-3094-48af-b140-6dcc5b223415)
-### #5 Other Job Relaated Issues
 
-- JobInvolvement
-  employees who are less engaged or involved in their work are more likely to leave the company. As job involvement increases, attrition rates decrease, with employees who score 4 on job involvement experiencing the lowest attrition. This pattern indicates that higher levels of job involvement are associated with greater employee retention. Fostering higher engagement and involvement in the workplace could be a key strategy to reduce attrition, especially for employees with low job involvement.
-![image](https://github.com/user-attachments/assets/f3748efb-07c8-4404-a498-ae26f2ceb8a6)
-- JobLevel
-  Employees who remain with the company generally occupy higher job levels compared to those who leave. Specifically, 50% of employees who have left are at job level 1, while 50% of employees who stay are at job level 2. The higher median job level for employees who stay suggests that more senior positions are associated with lower attrition rates, implying that employees in higher job levels are more likely to remain with the company.
-  ![image](https://github.com/user-attachments/assets/fade8fea-fe8b-4da0-b56e-9a9c6b3abc10)
-### #6 Work Experience Issues
+### #5 Work Experience Issues
 - YearsAtCompany
   This indicates that employees who stay with the company generally have more tenure compared to those who leave. Specifically, 50% of employees who have left have been with the company for 3 years or less, while 50% of employees who remain have been with the company for 6 years or less. The higher median tenure for employees who stay suggests that longer company tenure is associated with lower attrition rates, implying that employees with more years at the company are more likely to stay.
 ![image](https://github.com/user-attachments/assets/d92a4575-4257-45a0-8066-b451c77dd1ed)
@@ -70,6 +63,15 @@ This dataset contains 35 columns and can be found [here](https://www.kaggle.com/
 - NumCompaniesWorked
   Employees who leave the company tend to have worked for fewer companies overall, with 50% of them having worked for only 1 company. In contrast, 50% of employees who stay have worked for 2 companies or less, and their overall range of prior employers is narrower. The higher number of previous companies worked for among employees who stay suggests that those with more diverse work experiences may be more likely to remain with the company, possibly because they have gained broader experience in different environments.
   ![image](https://github.com/user-attachments/assets/4f2f288a-c731-427d-bb2c-b24f5db77c03)
+### #6 Other Job Related Issues
+
+- JobInvolvement
+  employees who are less engaged or involved in their work are more likely to leave the company. As job involvement increases, attrition rates decrease, with employees who score 4 on job involvement experiencing the lowest attrition. This pattern indicates that higher levels of job involvement are associated with greater employee retention. Fostering higher engagement and involvement in the workplace could be a key strategy to reduce attrition, especially for employees with low job involvement.
+![image](https://github.com/user-attachments/assets/f3748efb-07c8-4404-a498-ae26f2ceb8a6)
+- JobLevel
+  Employees who remain with the company generally occupy higher job levels compared to those who leave. Specifically, 50% of employees who have left are at job level 1, while 50% of employees who stay are at job level 2. The higher median job level for employees who stay suggests that more senior positions are associated with lower attrition rates, implying that employees in higher job levels are more likely to remain with the company.
+  ![image](https://github.com/user-attachments/assets/fade8fea-fe8b-4da0-b56e-9a9c6b3abc10)
+  
 ### #7 Personal Issues
 - WorkLifeBalance
    Employees with the lowest work-life balance score of 1 have the highest attrition rate, indicating that poor work-life balance is a significant factor contributing to employees leaving the company. This suggests that employees who perceive a better work-life balance are more likely to stay with the company, while those facing work-life imbalance are at a higher risk of leaving. Improving work-life balance, particularly for those with a score of 1, could be an effective strategy to reduce attrition.
