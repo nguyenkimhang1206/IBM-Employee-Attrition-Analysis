@@ -19,8 +19,8 @@ This dataset contains 35 columns and can be found [here](https://www.kaggle.com/
 
 - **Attrition rate in company:** The overall attrition rate in the company is 16.1% (236 employees).
   
-  ![image](https://github.com/user-attachments/assets/e7368dfd-c120-49e2-97a6-cbd0273df358)
-  
+ ![image](https://github.com/user-attachments/assets/866a6e92-739f-42bd-aded-4e7a044b4a10)
+
 - **Attrition rate by department:** The Sales department has the highest attrition rate at 20.6%, followed by the HR department at 19%, with the R&D department having the lowest rate.
   
   ![image](https://github.com/user-attachments/assets/ddc8be76-82c6-47c6-9229-b7f8c999e0c4)
