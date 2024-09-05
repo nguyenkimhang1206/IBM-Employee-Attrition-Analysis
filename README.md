@@ -81,8 +81,6 @@ This dataset contains 35 columns and can be found [here](https://www.kaggle.com/
   
   ![image](https://github.com/user-attachments/assets/4f2f288a-c731-427d-bb2c-b24f5db77c03)
   
-### #6 Other Job-Related Issue
-
 - **Job Involvement**: employees who are less engaged or involved in their work are more likely to leave the company. As job involvement increases, attrition rates decrease, with employees who score 4 on job involvement experiencing the lowest attrition. This pattern indicates that higher levels of job involvement are associated with greater employee retention. Fostering higher engagement and involvement in the workplace could be a key strategy to reduce attrition, especially for employees with low job involvement.
   
 ![image](https://github.com/user-attachments/assets/f3748efb-07c8-4404-a498-ae26f2ceb8a6)
@@ -91,7 +89,7 @@ This dataset contains 35 columns and can be found [here](https://www.kaggle.com/
   
   ![image](https://github.com/user-attachments/assets/fade8fea-fe8b-4da0-b56e-9a9c6b3abc10)
   
-### #7 Personal Issue
+### #6 Personal Issue
 
 - **Work Life Balance**: Employees with the lowest work-life balance score of 1 have the highest attrition rate, indicating that poor work-life balance is a significant factor contributing to employees leaving the company. This suggests that employees who perceive a better work-life balance are more likely to stay with the company, while those facing work-life imbalance are at a higher risk of leaving. Improving work-life balance, particularly for those with a score of 1, could be an effective strategy to reduce attrition.
   
