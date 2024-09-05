@@ -23,18 +23,18 @@ This dataset contains 35 columns and can be found [here](https://www.kaggle.com/
   ![image](https://github.com/user-attachments/assets/ddc8be76-82c6-47c6-9229-b7f8c999e0c4)
 - Attrition rate by job role: In the R&D department, the Laboratory Technician role has the highest attrition rate at 23%, followed by the Research Scientist role.
   ![image](https://github.com/user-attachments/assets/a9844533-b2ad-473a-b9c2-48e7b098645c)
-### #2 Compensation
+### #2 Compensation Issues
 
 - MonthlyIncome
   Employees who stay with the company generally have higher incomes compared to those who leave. Specifically, 50% of employees who have left earn $3,200 or less, while only 25% of employees who remain earn $3,200 or less. This suggests that higher-income employees are more likely to stay with the company.
   ![image](https://github.com/user-attachments/assets/8f4943ac-a42a-46ec-b9e7-a6dd4760b3ad)
-### #3 Management
+### #3 Management Issues
 
 - YearsWithCurrManager
   Employees who remain with the company generally have more tenure with their current manager. Specifically, 50% of employees who have left have been with their current manager for 2 years or less, while 50% of employees who stay have been with their manager for 3 years or less. The longer tenure of employees who remain suggests that employees who have a longer relationship with their manager are more likely to stay with the company. This could imply that stronger relationships with managers contribute to higher employee retention.
   ![image](https://github.com/user-attachments/assets/4685debf-ddca-42d1-bb26-2593a2207cbb)
 
-### #4 Work Environment Issue
+### #4 Work Environment Issues
 
 - EnvironmentSatisfaction
   This suggests that employees who are dissatisfied with their work environment are more likely to leave the company. As environment satisfaction improves, attrition rates decrease, with employees who score 4 experiencing the lowest attrition. This pattern underscores the importance of a positive work environment in retaining employees. Addressing environmental factors, particularly for those with low satisfaction, could help in reducing attrition rates and improving overall employee retention.
@@ -49,7 +49,7 @@ This dataset contains 35 columns and can be found [here](https://www.kaggle.com/
 - OverTime
   The stacked bar chart comparing attrition rates by overtime status reveals that employees who work overtime exhibit the highest attrition rate, at 30.5%. This suggests that employees who are required to work overtime are more likely to leave the company compared to those who do not work overtime. The higher attrition rate among overtime workers may indicate that excessive work hours could be contributing to increased employee dissatisfaction or burnout. Addressing the reasons behind the high attrition among employees who work overtime and finding ways to manage or reduce overtime could be essential strategies for improving retention and overall employee well-being.
 ![image](https://github.com/user-attachments/assets/b95b2b5b-3094-48af-b140-6dcc5b223415)
-### #5 Other Job Factors
+### #5 Other Job Relaated Issues
 
 - JobInvolvement
   employees who are less engaged or involved in their work are more likely to leave the company. As job involvement increases, attrition rates decrease, with employees who score 4 on job involvement experiencing the lowest attrition. This pattern indicates that higher levels of job involvement are associated with greater employee retention. Fostering higher engagement and involvement in the workplace could be a key strategy to reduce attrition, especially for employees with low job involvement.
@@ -57,7 +57,7 @@ This dataset contains 35 columns and can be found [here](https://www.kaggle.com/
 - JobLevel
   Employees who remain with the company generally occupy higher job levels compared to those who leave. Specifically, 50% of employees who have left are at job level 1, while 50% of employees who stay are at job level 2. The higher median job level for employees who stay suggests that more senior positions are associated with lower attrition rates, implying that employees in higher job levels are more likely to remain with the company.
   ![image](https://github.com/user-attachments/assets/fade8fea-fe8b-4da0-b56e-9a9c6b3abc10)
-### #6 Work Experience
+### #6 Work Experience Issues
 - YearsAtCompany
   This indicates that employees who stay with the company generally have more tenure compared to those who leave. Specifically, 50% of employees who have left have been with the company for 3 years or less, while 50% of employees who remain have been with the company for 6 years or less. The higher median tenure for employees who stay suggests that longer company tenure is associated with lower attrition rates, implying that employees with more years at the company are more likely to stay.
 ![image](https://github.com/user-attachments/assets/d92a4575-4257-45a0-8066-b451c77dd1ed)
@@ -70,7 +70,7 @@ This dataset contains 35 columns and can be found [here](https://www.kaggle.com/
 - NumCompaniesWorked
   Employees who leave the company tend to have worked for fewer companies overall, with 50% of them having worked for only 1 company. In contrast, 50% of employees who stay have worked for 2 companies or less, and their overall range of prior employers is narrower. The higher number of previous companies worked for among employees who stay suggests that those with more diverse work experiences may be more likely to remain with the company, possibly because they have gained broader experience in different environments.
   ![image](https://github.com/user-attachments/assets/4f2f288a-c731-427d-bb2c-b24f5db77c03)
-### #7 Personal Issue
+### #7 Personal Issues
 - WorkLifeBalance
    Employees with the lowest work-life balance score of 1 have the highest attrition rate, indicating that poor work-life balance is a significant factor contributing to employees leaving the company. This suggests that employees who perceive a better work-life balance are more likely to stay with the company, while those facing work-life imbalance are at a higher risk of leaving. Improving work-life balance, particularly for those with a score of 1, could be an effective strategy to reduce attrition.
 ![image](https://github.com/user-attachments/assets/23f4b7eb-7ec3-4539-b02f-90eae2722f23)
