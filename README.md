@@ -78,7 +78,7 @@ This dataset contains 35 columns and can be found [here](https://www.kaggle.com/
   ![image](https://github.com/user-attachments/assets/50281294-94e8-444a-a6a8-d239852d5097)
   
     
-- **Job Involvement**: employees who are less engaged or involved in their work are more likely to leave the company. As job involvement increases, attrition rates decrease, with employees who score 4 on job involvement experiencing the lowest attrition. This pattern indicates that higher levels of job involvement are associated with greater employee retention. Fostering higher engagement and involvement in the workplace could be a key strategy to reduce attrition, especially for employees with low job involvement.
+- **Job Involvement**: Employees who are less engaged or involved in their work are more likely to leave the company. As job involvement increases, attrition rates decrease, with employees who score 4 on job involvement experiencing the lowest attrition. This pattern indicates that higher levels of job involvement are associated with greater employee retention. Fostering higher engagement and involvement in the workplace could be a key strategy to reduce attrition, especially for employees with low job involvement.
   
 ![image](https://github.com/user-attachments/assets/f3748efb-07c8-4404-a498-ae26f2ceb8a6)
 
@@ -88,15 +88,15 @@ This dataset contains 35 columns and can be found [here](https://www.kaggle.com/
   
 ### #6 Personal Issue
 
-- **Work Life Balance**: Employees with the lowest work-life balance score of 1 have the highest attrition rate, indicating that poor work-life balance is a significant factor contributing to employees leaving the company. This suggests that employees who perceive a better work-life balance are more likely to stay with the company, while those facing work-life imbalance are at a higher risk of leaving. Improving work-life balance, particularly for those with a score of 1, could be an effective strategy to reduce attrition.
+- **Work Life Balance**: Employees with the lowest work-life balance (score of 1) have the highest attrition rate, indicating that poor work-life balance is a significant factor contributing to employees leaving the company. This suggests that employees who perceive a better work-life balance are more likely to stay with the company, while those facing work-life imbalance are at a higher risk of leaving. Improving work-life balance, particularly for those with a score of 1, could be an effective strategy to reduce attrition.
   
 ![image](https://github.com/user-attachments/assets/23f4b7eb-7ec3-4539-b02f-90eae2722f23)
 
-- **Age**: younger employees are more likely to leave the company, as 50% of employees who have left are 32 years or younger, while 50% of employees who remain are 36 years or younger. Additionally, the broader age range of employees who stay, with 75% being 43 years or younger, implies that older employees are more likely to stay with the company, while younger employees are at a higher risk of leaving. This could suggest that younger employees might have different expectations or face different challenges, which could be contributing to higher attrition in this group.
+- **Age**: Younger employees are more likely to leave the company, as 50% of employees who have left are 32 years old or younger, while 50% of employees who remain are 36 years old or younger. Additionally, the broader age range of employees who stay, with 75% being 43 years or younger, implies that older employees are more likely to stay with the company, while younger employees are at a higher risk of leaving. This could suggest that younger employees might have different expectations or face different challenges, which could be contributing to higher attrition in this group.
   
 ![image](https://github.com/user-attachments/assets/0b4b6497-55e5-4a6c-96e8-0efddeeb2542)
 
-- **Distance From Home**: employees who live farther from the workplace are more likely to leave the company, as 50% of employees who left live 9 km or farther from the workplace, compared to 50% of employees who stay, who live 7 km or less. Additionally, the wider range of commuting distances for employees who have left indicates that longer commutes could be a contributing factor to higher attrition rates. Improving flexibility or addressing commute-related challenges could help reduce attrition, particularly for employees who live farther away.
+- **Distance From Home**: Employees who live farther from the workplace are more likely to leave the company, as 50% of employees who left live 9 km or farther from the workplace, compared to 50% of employees who stay, who live 7 km or less. Additionally, the wider range of commuting distances for employees who have left indicates that longer commutes could be a contributing factor to higher attrition rates. Improving flexibility or addressing commute-related challenges could help reduce attrition, particularly for employees who live farther away.
   
 ![image](https://github.com/user-attachments/assets/2258a4bc-fa26-49a5-899f-fe82b05051ee)
 
